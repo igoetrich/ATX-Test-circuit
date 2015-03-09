@@ -1,0 +1,30 @@
+Part     Value          Device
+
+LED1      amber         LED5MM 
+LED2      amber         LED5MM
+LED3      amber         LED5MM
+LED4      amber         LED5MM
+LED5      red           LED5MM
+LED6      red           LED5MM
+LED7      red           LED5MM
+LED8      red           LED5MM
+LED9      red           LED5MM
+LED10     red           LED5MM
+LED11     yellow        LED5MM
+LED12     yellow        LED5MM
+LED13     blue          LED5MM
+R1       680    all resistors 1/8 W
+R2       680            
+R3       680            
+R4       680            
+R5       270           
+R6       270            
+R7       270            
+R8       270            
+R9       270            
+R10      270            
+R11      1k             
+R12      1k             
+R13      1k             
+S1       Button Conrad Nr. 604106       
+X1       Connector MOLEX 5566-24      
